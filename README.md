@@ -3,7 +3,7 @@
 # TODO
 Zadanie 2 - Utwórz sprawozdanie z przeprowadzonych analiz
 • Sprawozdanie powinno zawierać:
-- [x] Kod źródłowy wraz z wyjaśnieniem - MM, mamy w dir `lab01`
+- [x] Kod źródłowy wraz z wyjaśnieniem - MM, mamy w dir `lab01`, plik `simple_linear_regression_student.py`
 - [ ] Interpretację wyników
 - [ ] Listę zbiorów wraz z ich omówieniem i podziałem
 - [x] Wykresy wizualizacji wraz z interpretacją - MM dir `img`
