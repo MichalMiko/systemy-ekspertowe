@@ -1,5 +1,13 @@
 # systemy-ekspertowe
 
+#TODO
+Zadanie 2 - Utwórz sprawozdanie z przeprowadzonych analiz
+• Sprawozdanie powinno zawierać:
+- [x] Kod źródłowy wraz z wyjaśnieniem - MM, mamy w dir `lab01`
+- [ ] Interpretację wyników
+- [ ] Listę zbiorów wraz z ich omówieniem i podziałem
+- [x] Wykresy wizualizacji wraz z interpretacją - MM dir `img`
+
 # Lab 01
 
 ## Przypadek 1
